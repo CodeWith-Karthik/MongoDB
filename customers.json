@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Amit Sharma",
+    "age": 29,
+    "gender": "Male"
+  },
+  {
+    "name": "Priya Singh",
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "name": "Ravi Verma",
+    "age": 35,
+    "gender": "Male"
+  },
+  {
+    "name": "Sandeep Kumar",
+    "age": 28,
+    "gender": "Male"
+  },
+  {
+    "name": "Anita Joshi",
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "name": "Anjali Patel",
+    "age": 27,
+    "gender": "Female"
+  },
+  {
+    "name": "Dr. Rajesh Mehta",
+    "age": 47,
+    "gender": "Male"
+  },
+  {
+    "name": "Seema Gupta",
+    "age": 33,
+    "gender": "Female"
+  },
+  {
+    "name": "Aarti Chawla",
+    "age": 29,
+    "gender": "Female"
+  },
+  {
+    "name": "Rohit Desai",
+    "age": 41,
+    "gender": "Male"
+  },
+  {
+    "name": "Karandeep Alun",
+    "age": 48,
+    "gender": "Male"
+  },
+  {
+    "name": "Neha Singh",
+    "age": 39,
+    "gender": "Female"
+  },
+  {
+    "name": "Arjun Reddy",
+    "age": 22,
+    "gender": "Male"
+  },
+  {
+    "name": "Vikram Sharma",
+    "age": 44,
+    "gender": "Male"
+  },
+  {
+    "name": "Aman Khan",
+    "age": 41,
+    "gender": "Male"
+  },
+  {
+    "name": "Meera Iyer",
+    "age": "35",
+    "gender": "Female"
+  },
+  {
+    "name": "Nidhi Kapoor",
+    "age": 27,
+    "gender": "Female"
+  },
+  {
+    "name": "Arjun Gupta",
+    "age": 35,
+    "gender": "Male"
+  },
+  {
+    "name": "Kiran Naik",
+    "age": 53,
+    "gender": "Male"
+  },
+  {
+    "name": "Bharat Rao",
+    "age": 68,
+    "gender": "Male"
+  },
+  {
+    "name": "Ramesh Patel",
+    "age": 38,
+    "gender": "Male"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Iphone 15",
+    "price": 80000,
+    "brand": "Apple",
+    "productType": "Mobile"
+  },
+  {
+    "name": "Iphone 14 Pro Max",
+    "price": 115000,
+    "brand": "Apple",
+    "productType": "Mobile"
+  },
+  {
+    "name": "Samsung Galaxy A50",
+    "price": 54000,
+    "brand": "Samsung",
+    "productType": "Mobile"
+  },
+  {
+    "name": "Nothing Phone 2a",
+    "price": 56000,
+    "brand": "Nothing",
+    "productType": "Mobile"
+  },
+  {
+    "name": "Samsung Galaxy s24 Ultra",
+    "price": 93000,
+    "brand": "Samsung",
+    "productType": "Mobile"
+  },
+  {
+    "name": "Bravia 43 inch 4k",
+    "price": 45000,
+    "brand": "Samsung",
+    "productType": "TV"
+  },
+  {
+    "name": "Mac Book Pro",
+    "price": 120000,
+    "brand": "Apple",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "8 GB",
+      "processor": "M1",
+      "storageType": "SSD",
+      "storageSize": "512 SSD"
+    }
+  },
+  {
+    "name": "Lenovo Legion",
+    "price": 120000,
+    "brand": "Lenovo",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 13th Gen",
+      "storageType": "SSD",
+      "storageSize": "1 TB"
+    }
+  },
+  {
+    "name": "MSI Katna 15",
+    "price": 98000,
+    "brand": "MSI",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 12th Gen",
+      "storageType": "SSD",
+      "storageSize": "512 GB"
+    }
+  },
+  {
+    "name": "MSI Katna 15 Pro",
+    "price": 130000,
+    "brand": "MSI",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 13th Gen",
+      "storageType": "SSD",
+      "storageSize": "1 TB"
+    }
+  }
+]

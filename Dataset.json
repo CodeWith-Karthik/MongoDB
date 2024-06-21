@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Iphone 15",
+    "price": 80000,
+    "brand": "Apple",
+    "productType": "Mobile",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Iphone 14 Pro Max",
+    "price": 115000,
+    "brand": "Apple",
+    "productType": "Mobile",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Samsung Galaxy A50",
+    "price": 54000,
+    "brand": "Samsung",
+    "productType": "Mobile",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Nothing Phone 2a",
+    "price": 56000,
+    "brand": "Nothing",
+    "productType": "Mobile",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Samsung Galaxy s24 Ultra",
+    "price": 93000,
+    "brand": "Samsung",
+    "productType": "Mobile",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Bravia 43 inch 4k",
+    "price": 45000,
+    "brand": "Samsung",
+    "productType": "TV",
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Mac Book Pro",
+    "price": 120000,
+    "brand": "Apple",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "8 GB",
+      "processor": "M1",
+      "storageType": "SSD",
+      "storageSize": "512 GB"
+    },
+    "categories": ["electronics"]
+  },
+  {
+    "name": "Lenovo Legion",
+    "price": 120000,
+    "brand": "Lenovo",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 13th Gen",
+      "storageType": "SSD",
+      "storageSize": "1 TB"
+    },
+    "categories": ["electronics"]
+  },
+  {
+    "name": "MSI Katna 15",
+    "price": 98000,
+    "brand": "MSI",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 12th Gen",
+      "storageType": "SSD",
+      "storageSize": "512 GB"
+    },
+    "categories": ["electronics"]
+  },
+  {
+    "name": "MSI Katna 15 Pro",
+    "price": 130000,
+    "brand": "MSI",
+    "productType": "Laptop",
+    "specification": {
+      "ram": "16 GB",
+      "processor": "i7 13th Gen",
+      "storageType": "SSD",
+      "storageSize": "1 TB"
+    },
+    "categories": ["electronics"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce53",
+    "name": "Samsung RT28T3022S8",
+    "price": 25000,
+    "brand": "Samsung",
+    "productType": "Refrigerator",
+    "specification": {
+      "capacity": "253L",
+      "energyRating": "3 Star"
+    },
+    "categories": ["kitchen_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce54",
+    "name": "LG MC2846BG",
+    "price": 15000,
+    "brand": "LG",
+    "productType": "Microwave Oven",
+    "specification": {
+      "type": "Convection",
+      "capacity": "28L"
+    },
+    "categories": ["kitchen_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce55",
+    "name": "Whirlpool IF278",
+    "price": 22000,
+    "brand": "Whirlpool",
+    "productType": "Refrigerator",
+    "specification": {
+      "capacity": "265L",
+      "energyRating": "4 Star"
+    },
+    "categories": ["kitchen_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce56",
+    "name": "IFB 30BRC2",
+    "price": 20000,
+    "brand": "IFB",
+    "productType": "Microwave Oven",
+    "specification": {
+      "type": "Convection",
+      "capacity": "30L"
+    },
+    "categories": ["kitchen_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce57",
+    "name": "Samsung WW60R20GLMA",
+    "price": 28000,
+    "brand": "Samsung",
+    "productType": "Washing Machine",
+    "specification": {
+      "capacity": "6 kg",
+      "type": "Front Load"
+    },
+    "categories": ["laundry_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce58",
+    "name": "LG T7281NDDLG",
+    "price": 18000,
+    "brand": "LG",
+    "productType": "Washing Machine",
+    "specification": {
+      "capacity": "6.2 kg",
+      "type": "Top Load"
+    },
+    "categories": ["laundry_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce59",
+    "name": "Philips HD6975/00",
+    "price": 7000,
+    "brand": "Philips",
+    "productType": "Oven Toaster Grill",
+    "specification": {
+      "capacity": "25L",
+      "powerConsumption": "1500W"
+    },
+    "categories": ["kitchen_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce5a",
+    "name": "Dyson V11 Absolute Pro",
+    "price": 52000,
+    "brand": "Dyson",
+    "productType": "Vacuum Cleaner",
+    "specification": {
+      "type": "Cord-free",
+      "runTime": "60 minutes"
+    },
+    "categories": ["home_cleaning"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce5b",
+    "name": "Eureka Forbes Aquaguard Marvel",
+    "price": 15000,
+    "brand": "Eureka Forbes",
+    "productType": "Water Purifier",
+    "specification": {
+      "type": "RO+UV",
+      "storageCapacity": "8L"
+    },
+    "categories": ["water_appliances"]
+  },
+  {
+    "_id": "666982f9132be8d964cdce5c",
+    "name": "Kent Grand Plus",
+    "price": 19000,
+    "brand": "Kent",
+    "productType": "Water Purifier",
+    "specification": {
+      "type": "RO+UV+UF",
+      "storageCapacity": "9L"
+    },
+    "categories": ["water_appliances"]
+  }
+]
